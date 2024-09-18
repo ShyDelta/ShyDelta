@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShyDelta
-- 👀 I’m interested in Coding, Guitar and 3D Printing
+- 👀 I’m interested in Coding, Music, Science and 3D-Printing
 - 🌱 I’m currently learning C for Arduino and C# with Unity
 - 💞️ I’m looking to collaborate on Unity Projects
 - 📫 How to reach me ...
