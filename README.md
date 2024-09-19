@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C for Arduino and C# with Unity
 - 💞️ I’m looking to collaborate on Unity Projects
 - 📫 How to reach me ...
-- 😄 Pronouns: He/They
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
