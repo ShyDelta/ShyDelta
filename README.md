@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Unity Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: a mirror is Neon White
 
 <!---
 ShyDelta/ShyDelta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
